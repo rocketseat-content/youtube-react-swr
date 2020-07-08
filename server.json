@@ -1,11 +1,40 @@
 {
   "users": [
-    { "id": 1, "name": "Diego" },
-    { "id": 2, "name": "Dani" },
-    { "id": 3, "name": "Vini" },
-    { "id": 4, "name": "Mary" },
-    { "id": 5, "name": "Joseph" },
-    { "id": 6, "name": "Cleiton" },
-    { "id": 7, "name": "Claudio" }
+    {
+      "id": 1,
+      "name": "Diego"
+    },
+    {
+      "id": 2,
+      "name": "Dani"
+    },
+    {
+      "name": "Bartolomeu",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Mary"
+    },
+    {
+      "id": 5,
+      "name": "Joseph"
+    },
+    {
+      "name": "Bartolomeu",
+      "id": 6
+    },
+    {
+      "name": "Bartolomeu",
+      "id": 7
+    },
+    {
+      "name": "Bartolomeu",
+      "id": 8
+    },
+    {
+      "name": "Bartolomeu",
+      "id": 9
+    }
   ]
 }
